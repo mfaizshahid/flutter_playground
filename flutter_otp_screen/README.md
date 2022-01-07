@@ -1,16 +1,3 @@
 # flutter_otp_screen
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+In this project [reactive forms](https://pub.dev/packages/reactive_forms) and [reactive pinput](https://pub.dev/packages/reactive_pinput) packages are used to get otp code. There is no stateful widget used in this project. For state management [get](https://pub.dev/packages/get) package is used. While [argon_buttons_flutter](https://pub.dev/packages/argon_buttons_flutter), [animate_do](https://pub.dev/packages/animate_do) and [flutter_svg](https://pub.dev/packages/flutter_svg) packages are used to display request again timer button, for animations and for displaying svg respectively.
