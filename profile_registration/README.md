@@ -1,16 +1,3 @@
 # profile_registration
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+In this project, [reactive forms](https://pub.dev/packages/reactive_forms) package is used to get information from user. There is no stateful widget used in this project. For state management [get](https://pub.dev/packages/get) package is used. While [animate_do](https://pub.dev/packages/animate_do) package is used for animations.
