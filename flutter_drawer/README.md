@@ -1,16 +1,3 @@
 # flutter_drawer
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+In this project [url_launcher](https://pub.dev/packages/url_launcher) package is used to open whatsapp for community support and [share_plus](https://pub.dev/packages/share_plus) package is used for share functionality. There is no stateful widget used in this project. For state management [get](https://pub.dev/packages/get) package is used. While [getwidget](https://pub.dev/packages/getwidget) package is used to display drawer items and rating bar.

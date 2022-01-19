@@ -8,4 +8,8 @@ A repository that contains mini flutter projects. Each project contain it's own 
 
 ## 2. [Profile Registration](profile_registration/)
 
-![Flutter OTP Screen](screenshots/profile_registration.png)
+![Profile Registration](screenshots/profile_registration.png)
+
+## 3. [Flutter Drawer](flutter_drawer/)
+
+![Flutter Drawer](screenshots/flutter_drawer.png)
